@@ -1,8 +1,14 @@
-# vue-todo-list
+# VUE-TODO-LIST
+##### Uma lista de tarefas a fazer implementada usando o Vue.js 2
 
 ![alt text](https://raw.githubusercontent.com/dev-emmanuelricardo/vue-todo-list/master/to-do-thumb)
 
-## Project setup
+## Descrição
+```
+Uma aplicação desenvolvida como projeto de estudos do framework Vue.js. A aplicação consiste em uma tela onde é possível adicionar tarefas que serão realizadas. Um clique nas tarefas faz com que elas alternem de "feitas" para "a fazer". As tarefas cadastradas ficam salvas no local storage do navegador.
+```
+
+## Instalação
 ```
 npm install
 ```
