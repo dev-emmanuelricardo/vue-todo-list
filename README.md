@@ -1,4 +1,6 @@
-# todo
+# vue-todo-list
+
+![alt text](https://raw.githubusercontent.com/dev-emmanuelricardo/vue-todo-list/master/to-do-thumb)
 
 ## Project setup
 ```
@@ -27,4 +29,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-todo-list
